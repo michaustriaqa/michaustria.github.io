@@ -43,7 +43,7 @@ I have extensive experience in manual and automated testing, with a focus on del
 
 Feel free to reach out to me for any queries or collaboration opportunities:
 
-- **Email:** michelle.v.austria@example.com
+- **Email:** michaustriaqa@gmail.com
 - **LinkedIn:** [linkedin.com/in/michelle-austria](https://linkedin.com/in/michelle-austria)
 - **GitHub:** [github.com/michaustriaqa](https://github.com/michaustriaqa)
 
